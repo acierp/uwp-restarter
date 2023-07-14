@@ -1,0 +1,15 @@
+{
+    "game_id": 6284583030,
+    "restart_delay_seconds": 5,
+    "vip_server":
+    {
+        "enabled": false,
+        "url": "https://www.roblox.com/games/6284583030?privateServerLinkCode=42800683209838238747639113951136",
+        "cookie": "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|"
+    },
+    "restart_on_interval":
+    {
+        "enabled": false,
+        "interval_seconds": 60
+    }
+}
